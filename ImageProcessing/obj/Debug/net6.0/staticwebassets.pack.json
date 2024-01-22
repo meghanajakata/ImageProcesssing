@@ -1,0 +1,353 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ImageProcessing.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ImageProcessing.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\uploads\\0816db2a-fe8f-4cda-a48d-2e6fc920b6ab.png",
+      "PackagePath": "staticwebassets\\uploads\\0816db2a-fe8f-4cda-a48d-2e6fc920b6ab.png"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\uploads\\114db322-31af-4196-858d-6ed519b43645.jfif",
+      "PackagePath": "staticwebassets\\uploads\\114db322-31af-4196-858d-6ed519b43645.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\uploads\\1c5595e2-26d1-4a30-8429-0bfb5f841b6f.png",
+      "PackagePath": "staticwebassets\\uploads\\1c5595e2-26d1-4a30-8429-0bfb5f841b6f.png"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\uploads\\1cee8e3d-1592-4882-b09c-affbc92d3a46.png",
+      "PackagePath": "staticwebassets\\uploads\\1cee8e3d-1592-4882-b09c-affbc92d3a46.png"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\uploads\\1d7b2e91-6d97-44c3-b360-f071fcb88136.png",
+      "PackagePath": "staticwebassets\\uploads\\1d7b2e91-6d97-44c3-b360-f071fcb88136.png"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\uploads\\1fad9207-d0a3-457c-a5c2-e86b5efda422.png",
+      "PackagePath": "staticwebassets\\uploads\\1fad9207-d0a3-457c-a5c2-e86b5efda422.png"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\uploads\\3bc30bea-fa05-4905-b468-ec195140f873.png",
+      "PackagePath": "staticwebassets\\uploads\\3bc30bea-fa05-4905-b468-ec195140f873.png"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\uploads\\5542aea4-2170-48a8-b50f-f3cc55c54781.png",
+      "PackagePath": "staticwebassets\\uploads\\5542aea4-2170-48a8-b50f-f3cc55c54781.png"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\uploads\\5fcc7110-fbe4-47ff-882d-084c4cac0275.png",
+      "PackagePath": "staticwebassets\\uploads\\5fcc7110-fbe4-47ff-882d-084c4cac0275.png"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\uploads\\60398d17-d88a-4115-adf0-805a11c0df3e.png",
+      "PackagePath": "staticwebassets\\uploads\\60398d17-d88a-4115-adf0-805a11c0df3e.png"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\uploads\\6122b477-46e9-4ff2-ac9e-3113675d7e9f.png",
+      "PackagePath": "staticwebassets\\uploads\\6122b477-46e9-4ff2-ac9e-3113675d7e9f.png"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\uploads\\6410e0f2-1d41-474e-9c0c-ac52007cd00b.png",
+      "PackagePath": "staticwebassets\\uploads\\6410e0f2-1d41-474e-9c0c-ac52007cd00b.png"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\uploads\\74ad9899-34f4-435f-999b-19bd4ee907a1.png",
+      "PackagePath": "staticwebassets\\uploads\\74ad9899-34f4-435f-999b-19bd4ee907a1.png"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\uploads\\82503ba4-c5e9-4163-863f-6baa47ae7506.png",
+      "PackagePath": "staticwebassets\\uploads\\82503ba4-c5e9-4163-863f-6baa47ae7506.png"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\uploads\\8e01e8ca-dce2-48a3-b2ac-0de8a65940c8.png",
+      "PackagePath": "staticwebassets\\uploads\\8e01e8ca-dce2-48a3-b2ac-0de8a65940c8.png"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\uploads\\8e4c608f-ef4f-40a2-a3fa-52c88f820938.png",
+      "PackagePath": "staticwebassets\\uploads\\8e4c608f-ef4f-40a2-a3fa-52c88f820938.png"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\uploads\\ad6ea043-b28d-42d9-b6a9-242e34a7a88b.png",
+      "PackagePath": "staticwebassets\\uploads\\ad6ea043-b28d-42d9-b6a9-242e34a7a88b.png"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\uploads\\b835a2bd-ce44-4436-ae00-17443c0a9859.jpg",
+      "PackagePath": "staticwebassets\\uploads\\b835a2bd-ce44-4436-ae00-17443c0a9859.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\uploads\\cfb5f800-aa76-4756-b253-faf25ecde53b.png",
+      "PackagePath": "staticwebassets\\uploads\\cfb5f800-aa76-4756-b253-faf25ecde53b.png"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\uploads\\e1333d66-4035-43fb-bed3-9aa349562d7e.png",
+      "PackagePath": "staticwebassets\\uploads\\e1333d66-4035-43fb-bed3-9aa349562d7e.png"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\uploads\\e95b41ed-4459-49c3-9448-017998df1d77.png",
+      "PackagePath": "staticwebassets\\uploads\\e95b41ed-4459-49c3-9448-017998df1d77.png"
+    },
+    {
+      "Id": "C:\\Users\\Meghana Jakata\\source\\repos\\ImageProcessing\\ImageProcessing\\wwwroot\\uploads\\f45b8765-5dd2-45d8-9c3e-4e4c2b771b8c.png",
+      "PackagePath": "staticwebassets\\uploads\\f45b8765-5dd2-45d8-9c3e-4e4c2b771b8c.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ImageProcessing.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ImageProcessing.props",
+      "PackagePath": "build\\ImageProcessing.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ImageProcessing.props",
+      "PackagePath": "buildMultiTargeting\\ImageProcessing.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ImageProcessing.props",
+      "PackagePath": "buildTransitive\\ImageProcessing.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

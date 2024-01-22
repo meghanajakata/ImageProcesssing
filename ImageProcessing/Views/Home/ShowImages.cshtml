@@ -1,0 +1,24 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Show Images</title>
+</head>
+<body>
+    @if (!string.IsNullOrEmpty(ViewBag.ResizedImagePath))
+    {
+        <h2>Original Image</h2>
+        <img src="data:image/jpeg;base64,@Convert.ToBase64String(ViewBag.OriginalImage)" alt="Original Image">
+
+        <h2>Resized Image</h2>
+        <img src="@ViewBag.ResizedImagePath" alt="Resized Image">
+    }
+
+    <h2>Resized Image</h2>
+    <img src="@ViewBag.ResizedImagePath" alt="Resized Image">
+</body>
+</html>

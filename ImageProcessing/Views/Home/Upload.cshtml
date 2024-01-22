@@ -1,0 +1,69 @@
+﻿@{
+    ViewData["Title"] = "Image Processing";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Processing</title>
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+</head>
+<body>
+    <h1>Image Processing</h1>
+    <div class="col-8">
+        <form id="imageForm" asp-action="Upload" enctype="multipart/form-data">
+            <div class="form-group">
+                <label class="control-label" for="imageFile">Choose Image:</label>
+                <input class="form-control" type="file" id="ImageUrl" name="ImageUrl" accept="image/*" required>
+            </div>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="grayscale" name="grayscale">
+                <label class="form-check-label" for="grayscale">GrayScale</label>
+            </div>
+            <div class="form-group">
+                <label class="control-label" for="blurSigma">Blur Sigma:</label>
+                <input class="form-control" type="number" id="blurSigma" name="blurSigma" value="0">
+            </div>
+            <div class="form-group">
+                <label class="control-label" for="brightness">Brightness:</label>
+                <input class="form-control" type="number" id="brightness" name="brightness" value="0">
+            </div>
+            <div class="form-group">
+                <label class="control-label" for="contrast">Contrast:</label>
+                <input class="form-control" type="number" id="contrast" name="contrast" value="0">
+            </div>
+            <input type="Submit" class="btn btn-primary" />
+        </form>
+        @if (ViewData.ContainsKey("ResizedImage"))
+        {
+            <div>Resized Image</div>
+            string base64Image = ViewData["ResizedImage"] as string;
+            <div id="processedImageContainer">
+                <img src="data:image/jpeg;base64,@base64Image" alt="Processed Image">
+            </div>
+        }
+
+        @if (ViewData.ContainsKey("filteredImage"))
+        {
+            <div>Image with Filters</div>
+            string base64Image = ViewData["filteredImage"] as string;
+            <div id="processedImageContainer">
+                <img src="data:image/jpeg;base64,@base64Image" alt="Processed Image">
+            </div>
+        }
+
+        @if (ViewData.ContainsKey("brightedImage"))
+        {
+            <div>Resized Image</div>
+            string base64Image = ViewData["brightedImage"] as string;
+            <div id="processedImageContainer">
+                <img src="data:image/jpeg;base64,@base64Image" alt="Processed Image">
+            </div>
+        }
+    </div>
+    
+
+    
+
+</body>
+</html>
